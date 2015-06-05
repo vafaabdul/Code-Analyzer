@@ -1,0 +1,1 @@
+D:\Assignments\SMA\Project2\TypeAnalyzer\Solution1\Analyzer\bin\Debug\Analyzer.exe.config

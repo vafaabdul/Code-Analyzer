@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Analysis>
+  <namespace Name="myApp">
+    <class Name="firstClass">
+      <function>
+        <Name>speak</Name>
+        <Size>4</Size>
+        <Complexity>1</Complexity>
+      </function>
+    </class>
+    <class Name="Hello">
+      <function>
+        <Name>Main</Name>
+        <Size>18</Size>
+        <Complexity>3</Complexity>
+      </function>
+    </class>
+  </namespace>
+</Analysis>
